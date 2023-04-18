@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/serhiiburiak29" target="blank"><img src="https://img.shields.io/twitter/follow/serhiiburiak29?logo=twitter&style=for-the-badge" alt="serhiiburiak29" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, TypeScript, Nest.js, Next.js, Nest.js**
+- 🌱 I’m currently learning **Node.js, TypeScript, Nest.js, Next.js**
 
 - 💬 Ask me about **react, scss, figma, photoshop**
 
-- 📫 How to reach me **idaveee@gmail.com**
+- 📫 Get in touch **idaveee@gmail.com**
 
 - 📄 Know about my experiences [https://jophkins.github.io/cv/](https://jophkins.github.io/cv/)
 
