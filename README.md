@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Node.js, TypeScript, Nest.js, Next.js**
 
-- 💬 Ask me about **react, scss, figma, photoshop**
+- 💬 Ask me about **my way or any technology you wanna talk about, i am pretty t-shaped person**
 
-- 📫 Get in touch **idaveee@gmail.com**
+- 📫 Get in touch **serhiiburiak19@gmail.com**
 
 - 📄 Know about my experiences [https://jophkins.github.io/cv/](https://jophkins.github.io/cv/)
 
