@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋, I'm Serhii Buriak</h1>
-<h3 align="center">A kind frontend developer who came to Canada from Ukraine</h3>
+<h1 align="center">Hey 👋, I'm Seth</h1>
+<h3 align="center">A kind of full-cycle web engineer based in NA for now</h3>
 <img align="right" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="Coding">
 
 <p align="left"> <a href="https://twitter.com/serhiiburiak29" target="blank"><img src="https://img.shields.io/twitter/follow/serhiiburiak29?logo=twitter&style=for-the-badge" alt="serhiiburiak29" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, TypeScript, Nest.js, Next.js**
+- 🌱 I’m currently learning **best way to use AI, sharpen skills in Node.js, TypeScript, Nest.js, Next.js, production and business flows**
 
 - 💬 Ask me about **my way or any technology you wanna talk about, i am pretty t-shaped person**
 
